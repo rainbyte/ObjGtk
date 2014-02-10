@@ -1,0 +1,1 @@
+SUBDIRS = src/ObjCairo src/ObjGtk src
